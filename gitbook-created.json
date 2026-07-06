@@ -1,31 +1,31 @@
 {
-  "org": "2DnmWBpytIOUKeXExonU",
-  "site": "site_ewDsH",
+  "org": "M7Hsux2wvrs5Etd272Ma",
+  "site": "site_AXdbD",
   "spaces": {
-    "HOME": "PER4dSjHfTRtG0a9SBbQ",
-    "GOVERNANCE": "B2PvLUl0M6rtoXPT3ktM",
-    "API": "f80YjJEaJNjd88DHAbjW"
+    "HOME": "CyQA8CiNviQXiIlxhhv4",
+    "GOVERNANCE": "k7X6FzEbVWcogCHHOJ7g",
+    "API": "LhV5yaAiVNoegUX5jXBX"
   },
   "sections": {
-    "HOME": "sitesc_Hfr67",
-    "GOVERNANCE": "sitesc_rkqXz",
-    "API": "sitesc_USB1K"
+    "HOME": "sitesc_Dd9iQ",
+    "GOVERNANCE": "sitesc_pDfbk",
+    "API": "sitesc_oCNWW"
   },
   "site_spaces": {
-    "HOME": "sitesp_Lg21Y",
-    "GOVERNANCE": "sitesp_3eK8F",
-    "API": "sitesp_IoQnR"
+    "HOME": "sitesp_q85U5",
+    "GOVERNANCE": "sitesp_QDmHK",
+    "API": "sitesp_d7gEU"
   },
   "site_object": {
     "object": "site",
-    "id": "site_ewDsH",
+    "id": "site_AXdbD",
     "type": "ultimate",
     "appliedType": "ultimate",
     "title": "Exotec Knowledge & Developer Portal",
     "icon": {
       "icon": {
-        "dark": "https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/organizations%2F2DnmWBpytIOUKeXExonU%2Flogo%2Fqc8f5iROXVV1J4aoZ5o2%2FGitBook%20-%20Icon%20-%20Dark.svg?alt=media&token=78889522-cfba-4af4-9d93-075f40c9c18a",
-        "light": "https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/organizations%2F2DnmWBpytIOUKeXExonU%2Flogo%2Fqc8f5iROXVV1J4aoZ5o2%2FGitBook%20-%20Icon%20-%20Dark.svg?alt=media&token=78889522-cfba-4af4-9d93-075f40c9c18a"
+        "dark": "https://www.google.com/s2/favicons?domain=gitbook.io&sz=256",
+        "light": "https://www.google.com/s2/favicons?domain=gitbook.io&sz=256"
       }
     },
     "basename": "exotec-knowledge-and-developer-portal",
@@ -33,7 +33,7 @@
     "permissionsModel": "site",
     "defaultLevel": null,
     "published": false,
-    "createdAt": "2026-07-06T22:52:21.000Z",
+    "createdAt": "2026-07-06T23:05:44.000Z",
     "siteSpaces": 0,
     "features": [
       {
@@ -58,18 +58,18 @@
       }
     ],
     "urls": {
-      "location": "/orgs/2DnmWBpytIOUKeXExonU/sites/site_ewDsH",
-      "app": "https://app.gitbook.com/o/2DnmWBpytIOUKeXExonU/sites/site_ewDsH",
-      "preview": "https://sites.gitbook.com/preview/site_ewDsH/"
+      "location": "/orgs/M7Hsux2wvrs5Etd272Ma/sites/site_AXdbD",
+      "app": "https://app.gitbook.com/o/M7Hsux2wvrs5Etd272Ma/sites/site_AXdbD",
+      "preview": "https://sites.gitbook.com/preview/site_AXdbD/"
     }
   },
   "openapi": {
     "created": true,
     "spec": {
       "object": "openapi-spec",
-      "id": "oas_K2aUj",
-      "createdAt": "2026-07-06T22:52:20.000Z",
-      "updatedAt": "2026-07-06T22:52:20.000Z",
+      "id": "oas_w8DMn",
+      "createdAt": "2026-07-06T23:05:43.000Z",
+      "updatedAt": "2026-07-06T23:05:43.000Z",
       "slug": "gitbook-petstore-demo",
       "sourceURL": "https://gitbookio.github.io/onboarding-template-images/gitbook-petstore.yaml",
       "processingState": "pending",
@@ -80,8 +80,8 @@
         "edit": true
       },
       "urls": {
-        "app": "https://app.gitbook.com/o/2DnmWBpytIOUKeXExonU/openapi/gitbook-petstore-demo",
-        "location": "/orgs/2DnmWBpytIOUKeXExonU/openapi/gitbook-petstore-demo"
+        "app": "https://app.gitbook.com/o/M7Hsux2wvrs5Etd272Ma/openapi/gitbook-petstore-demo",
+        "location": "/orgs/M7Hsux2wvrs5Etd272Ma/openapi/gitbook-petstore-demo"
       }
     }
   }
