@@ -34,8 +34,8 @@ Discovery basis: the Fireflies summary called out version documentation, documen
 
 <table data-view="cards"><thead><tr><th width="48"></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
 <tr><td><i class="fa-route"></i></td><td><strong>Demo map</strong></td><td>How this site maps Exotec's website positioning and discovery-call themes into GitBook.</td><td><a href="demo-map.md">Demo map</a></td></tr>
-<tr><td><i class="fa-shield-halved"></i></td><td><strong>Documentation governance</strong></td><td>Ownership, versioning, access levels, decision rounds, and review workflows.</td><td><a href="https://app.gitbook.com/s/XSPACE_GOVERNANCE/">Documentation governance</a></td></tr>
-<tr><td><i class="fa-code"></i></td><td><strong>Developer & API Reference</strong></td><td>Developer account onboarding plus a generated OpenAPI reference using the GitBook Petstore spec.</td><td><a href="https://app.gitbook.com/s/XSPACE_API/">Developer & API Reference</a></td></tr>
+<tr><td><i class="fa-shield-halved"></i></td><td><strong>Documentation governance</strong></td><td>Ownership, versioning, access levels, decision rounds, and review workflows.</td><td><a href="https://app.gitbook.com/s/B2PvLUl0M6rtoXPT3ktM/">Documentation governance</a></td></tr>
+<tr><td><i class="fa-code"></i></td><td><strong>Developer & API Reference</strong></td><td>Developer account onboarding plus a generated OpenAPI reference using the GitBook Petstore spec.</td><td><a href="https://app.gitbook.com/s/f80YjJEaJNjd88DHAbjW/">Developer & API Reference</a></td></tr>
 </tbody></table>
 
 ## What this should show in the demo

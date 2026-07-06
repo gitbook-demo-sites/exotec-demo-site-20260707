@@ -1,0 +1,88 @@
+{
+  "org": "2DnmWBpytIOUKeXExonU",
+  "site": "site_ewDsH",
+  "spaces": {
+    "HOME": "PER4dSjHfTRtG0a9SBbQ",
+    "GOVERNANCE": "B2PvLUl0M6rtoXPT3ktM",
+    "API": "f80YjJEaJNjd88DHAbjW"
+  },
+  "sections": {
+    "HOME": "sitesc_Hfr67",
+    "GOVERNANCE": "sitesc_rkqXz",
+    "API": "sitesc_USB1K"
+  },
+  "site_spaces": {
+    "HOME": "sitesp_Lg21Y",
+    "GOVERNANCE": "sitesp_3eK8F",
+    "API": "sitesp_IoQnR"
+  },
+  "site_object": {
+    "object": "site",
+    "id": "site_ewDsH",
+    "type": "ultimate",
+    "appliedType": "ultimate",
+    "title": "Exotec Knowledge & Developer Portal",
+    "icon": {
+      "icon": {
+        "dark": "https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/organizations%2F2DnmWBpytIOUKeXExonU%2Flogo%2Fqc8f5iROXVV1J4aoZ5o2%2FGitBook%20-%20Icon%20-%20Dark.svg?alt=media&token=78889522-cfba-4af4-9d93-075f40c9c18a",
+        "light": "https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/organizations%2F2DnmWBpytIOUKeXExonU%2Flogo%2Fqc8f5iROXVV1J4aoZ5o2%2FGitBook%20-%20Icon%20-%20Dark.svg?alt=media&token=78889522-cfba-4af4-9d93-075f40c9c18a"
+      }
+    },
+    "basename": "exotec-knowledge-and-developer-portal",
+    "visibility": "share-link",
+    "permissionsModel": "site",
+    "defaultLevel": null,
+    "published": false,
+    "createdAt": "2026-07-06T22:52:21.000Z",
+    "siteSpaces": 0,
+    "features": [
+      {
+        "id": "sites-share-links",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-ai-assistant",
+        "plan": "ultimate",
+        "frozen": false
+      },
+      {
+        "id": "sites-pdf-export",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-page-feedback",
+        "plan": "premium",
+        "frozen": false
+      }
+    ],
+    "urls": {
+      "location": "/orgs/2DnmWBpytIOUKeXExonU/sites/site_ewDsH",
+      "app": "https://app.gitbook.com/o/2DnmWBpytIOUKeXExonU/sites/site_ewDsH",
+      "preview": "https://sites.gitbook.com/preview/site_ewDsH/"
+    }
+  },
+  "openapi": {
+    "created": true,
+    "spec": {
+      "object": "openapi-spec",
+      "id": "oas_K2aUj",
+      "createdAt": "2026-07-06T22:52:20.000Z",
+      "updatedAt": "2026-07-06T22:52:20.000Z",
+      "slug": "gitbook-petstore-demo",
+      "sourceURL": "https://gitbookio.github.io/onboarding-template-images/gitbook-petstore.yaml",
+      "processingState": "pending",
+      "visibility": "public",
+      "lastProcessedErrorCount": 0,
+      "permissions": {
+        "view": true,
+        "edit": true
+      },
+      "urls": {
+        "app": "https://app.gitbook.com/o/2DnmWBpytIOUKeXExonU/openapi/gitbook-petstore-demo",
+        "location": "/orgs/2DnmWBpytIOUKeXExonU/openapi/gitbook-petstore-demo"
+      }
+    }
+  }
+}
