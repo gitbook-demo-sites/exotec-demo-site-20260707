@@ -1,17 +1,17 @@
 {
   "HOME": {
     "status": 204,
-    "space": "PER4dSjHfTRtG0a9SBbQ",
+    "space": "CyQA8CiNviQXiIlxhhv4",
     "folder": "home"
   },
   "GOVERNANCE": {
     "status": 204,
-    "space": "B2PvLUl0M6rtoXPT3ktM",
+    "space": "k7X6FzEbVWcogCHHOJ7g",
     "folder": "governance"
   },
   "API": {
     "status": 204,
-    "space": "f80YjJEaJNjd88DHAbjW",
+    "space": "LhV5yaAiVNoegUX5jXBX",
     "folder": "developer-api"
   }
 }

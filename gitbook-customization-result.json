@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T22:54:08.000Z",
+  "updatedAt": "2026-07-06T23:06:10.000Z",
   "title": "Exotec Knowledge & Developer Portal",
   "localizedTitle": {},
   "internationalization": {
@@ -72,7 +72,7 @@
       {
         "to": {
           "kind": "space",
-          "space": "B2PvLUl0M6rtoXPT3ktM"
+          "space": "k7X6FzEbVWcogCHHOJ7g"
         },
         "links": [],
         "style": "link",
@@ -82,7 +82,7 @@
       {
         "to": {
           "kind": "space",
-          "space": "f80YjJEaJNjd88DHAbjW"
+          "space": "LhV5yaAiVNoegUX5jXBX"
         },
         "links": [],
         "style": "link",
@@ -112,7 +112,7 @@
           {
             "to": {
               "kind": "space",
-              "space": "PER4dSjHfTRtG0a9SBbQ"
+              "space": "CyQA8CiNviQXiIlxhhv4"
             },
             "title": "Home",
             "localizedTitle": {}
@@ -120,7 +120,7 @@
           {
             "to": {
               "kind": "space",
-              "space": "B2PvLUl0M6rtoXPT3ktM"
+              "space": "k7X6FzEbVWcogCHHOJ7g"
             },
             "title": "Documentation Governance",
             "localizedTitle": {}
@@ -128,7 +128,7 @@
           {
             "to": {
               "kind": "space",
-              "space": "f80YjJEaJNjd88DHAbjW"
+              "space": "LhV5yaAiVNoegUX5jXBX"
             },
             "title": "Developer & API Reference",
             "localizedTitle": {}
