@@ -1,0 +1,104 @@
+{
+  "publish_status": 200,
+  "publish": {
+    "object": "site",
+    "id": "site_ewDsH",
+    "type": "ultimate",
+    "appliedType": "ultimate",
+    "title": "Exotec Knowledge & Developer Portal",
+    "icon": {
+      "icon": {
+        "dark": "https://www.exotec.com/favicon-32x32.png",
+        "light": "https://www.exotec.com/favicon-32x32.png"
+      }
+    },
+    "basename": "exotec-knowledge-developer-portal",
+    "visibility": "share-link",
+    "permissionsModel": "site",
+    "defaultLevel": null,
+    "published": true,
+    "createdAt": "2026-07-06T22:52:21.000Z",
+    "siteSpaces": 3,
+    "features": [
+      {
+        "id": "sites-share-links",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-ai-assistant",
+        "plan": "ultimate",
+        "frozen": false
+      },
+      {
+        "id": "sites-pdf-export",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-page-feedback",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-advanced-customization",
+        "plan": "premium",
+        "frozen": false,
+        "customizations": [
+          "header-logo",
+          "footer-logo",
+          "footer-links",
+          "footer-copyright",
+          "semantic-colors"
+        ]
+      },
+      {
+        "id": "sites-sections",
+        "plan": "ultimate",
+        "frozen": false
+      }
+    ],
+    "urls": {
+      "location": "/orgs/2DnmWBpytIOUKeXExonU/sites/site_ewDsH",
+      "app": "https://app.gitbook.com/o/2DnmWBpytIOUKeXExonU/sites/site_ewDsH",
+      "preview": "https://sites.gitbook.com/preview/site_ewDsH/"
+    }
+  },
+  "share_status": 201,
+  "share": {
+    "object": "share-link",
+    "id": "GRaildGJTg5AUHauznme",
+    "createdAt": "2026-07-06T22:52:39.000Z",
+    "name": "Exotec demo review",
+    "active": true,
+    "urls": {
+      "published": "https://enterprise-demos.gitbook.io/exotec-knowledge-developer-portal/GRaildGJTg5AUHauznme/"
+    }
+  },
+  "published_url": "https://enterprise-demos.gitbook.io/exotec-knowledge-developer-portal/GRaildGJTg5AUHauznme/",
+  "app_url": "https://app.gitbook.com/o/2DnmWBpytIOUKeXExonU/sites/site_ewDsH",
+  "preview_url": "https://sites.gitbook.com/preview/site_ewDsH/",
+  "repo": "https://github.com/gitbook-demo-sites/exotec-demo-site-20260707",
+  "openapi": {
+    "created": true,
+    "spec": {
+      "object": "openapi-spec",
+      "id": "oas_K2aUj",
+      "createdAt": "2026-07-06T22:52:20.000Z",
+      "updatedAt": "2026-07-06T22:52:20.000Z",
+      "slug": "gitbook-petstore-demo",
+      "sourceURL": "https://gitbookio.github.io/onboarding-template-images/gitbook-petstore.yaml",
+      "processingState": "pending",
+      "visibility": "public",
+      "lastProcessedErrorCount": 0,
+      "permissions": {
+        "view": true,
+        "edit": true
+      },
+      "urls": {
+        "app": "https://app.gitbook.com/o/2DnmWBpytIOUKeXExonU/openapi/gitbook-petstore-demo",
+        "location": "/orgs/2DnmWBpytIOUKeXExonU/openapi/gitbook-petstore-demo"
+      }
+    }
+  }
+}

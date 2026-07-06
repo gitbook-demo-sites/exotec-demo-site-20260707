@@ -1,0 +1,229 @@
+{
+  "updatedAt": "2026-07-06T22:52:37.000Z",
+  "title": "Exotec Knowledge & Developer Portal",
+  "localizedTitle": {},
+  "internationalization": {
+    "locale": "en"
+  },
+  "styling": {
+    "theme": "clean",
+    "primaryColor": {
+      "dark": "#72DCE3",
+      "light": "#28AFB9"
+    },
+    "infoColor": {
+      "dark": "#72DCE3",
+      "light": "#28AFB9"
+    },
+    "successColor": {
+      "dark": "#72DCE3",
+      "light": "#28AFB9"
+    },
+    "warningColor": {
+      "dark": "#FCB900",
+      "light": "#FF6900"
+    },
+    "dangerColor": {
+      "dark": "#F87171",
+      "light": "#CF2E2E"
+    },
+    "tint": {
+      "color": {
+        "dark": "#000000",
+        "light": "#F6F6F6"
+      }
+    },
+    "corners": "straight",
+    "depth": "flat",
+    "links": "accent",
+    "font": "Inter",
+    "monospaceFont": "IBMPlexMono",
+    "icons": "regular",
+    "background": "plain",
+    "sidebar": {
+      "background": "filled",
+      "list": "line"
+    },
+    "codeTheme": {
+      "default": {
+        "light": "default-light",
+        "dark": "default-dark"
+      },
+      "openapi": {
+        "light": "default-light",
+        "dark": "default-dark"
+      }
+    },
+    "search": "prominent"
+  },
+  "favicon": {
+    "icon": {
+      "light": "https://www.exotec.com/favicon-32x32.png",
+      "dark": "https://www.exotec.com/favicon-32x32.png"
+    }
+  },
+  "header": {
+    "preset": "default",
+    "logo": {
+      "light": "https://raw.githubusercontent.com/gitbook-demo-sites/exotec-demo-site-20260707/main/assets/exotec-wordmark.svg",
+      "dark": "https://raw.githubusercontent.com/gitbook-demo-sites/exotec-demo-site-20260707/main/assets/exotec-wordmark.svg"
+    },
+    "links": [
+      {
+        "to": {
+          "kind": "space",
+          "space": "B2PvLUl0M6rtoXPT3ktM"
+        },
+        "links": [],
+        "style": "link",
+        "title": "Governance",
+        "localizedTitle": {}
+      },
+      {
+        "to": {
+          "kind": "space",
+          "space": "f80YjJEaJNjd88DHAbjW"
+        },
+        "links": [],
+        "style": "link",
+        "title": "Developer & API",
+        "localizedTitle": {}
+      },
+      {
+        "to": {
+          "url": "https://www.exotec.com/",
+          "kind": "url"
+        },
+        "links": [],
+        "style": "button-secondary",
+        "title": "Exotec",
+        "localizedTitle": {}
+      }
+    ]
+  },
+  "footer": {
+    "logo": {
+      "light": "https://raw.githubusercontent.com/gitbook-demo-sites/exotec-demo-site-20260707/main/assets/exotec-wordmark.svg",
+      "dark": "https://raw.githubusercontent.com/gitbook-demo-sites/exotec-demo-site-20260707/main/assets/exotec-wordmark.svg"
+    },
+    "groups": [
+      {
+        "links": [
+          {
+            "to": {
+              "kind": "space",
+              "space": "PER4dSjHfTRtG0a9SBbQ"
+            },
+            "title": "Home",
+            "localizedTitle": {}
+          },
+          {
+            "to": {
+              "kind": "space",
+              "space": "B2PvLUl0M6rtoXPT3ktM"
+            },
+            "title": "Documentation Governance",
+            "localizedTitle": {}
+          },
+          {
+            "to": {
+              "kind": "space",
+              "space": "f80YjJEaJNjd88DHAbjW"
+            },
+            "title": "Developer & API Reference",
+            "localizedTitle": {}
+          }
+        ],
+        "title": "Demo sections",
+        "localizedTitle": {}
+      },
+      {
+        "links": [
+          {
+            "to": {
+              "url": "https://github.com/gitbook-demo-sites/exotec-demo-site-20260707",
+              "kind": "url"
+            },
+            "title": "Source repo",
+            "localizedTitle": {}
+          },
+          {
+            "to": {
+              "url": "https://www.exotec.com/",
+              "kind": "url"
+            },
+            "title": "Exotec website",
+            "localizedTitle": {}
+          },
+          {
+            "to": {
+              "url": "https://gitbookio.github.io/onboarding-template-images/gitbook-petstore.yaml",
+              "kind": "url"
+            },
+            "title": "Petstore OpenAPI spec",
+            "localizedTitle": {}
+          }
+        ],
+        "title": "Sources",
+        "localizedTitle": {}
+      }
+    ],
+    "copyright": "Exotec Knowledge & Developer Portal - first-draft GitBook demo."
+  },
+  "themes": {
+    "default": "light",
+    "toggeable": true
+  },
+  "trademark": {
+    "enabled": true
+  },
+  "feedback": {
+    "enabled": true
+  },
+  "ai": {
+    "mode": "assistant",
+    "suggestions": [
+      "How should Exotec manage versioned docs?",
+      "What are the access levels in this demo?",
+      "How does developer account setup work?",
+      "Where is the generated API reference?"
+    ]
+  },
+  "advancedCustomization": {
+    "enabled": true
+  },
+  "pageActions": {
+    "items": [
+      "assistant",
+      "markdown",
+      "external-ai",
+      "mcp",
+      "pdf"
+    ]
+  },
+  "pagination": {
+    "enabled": true
+  },
+  "privacyPolicy": {
+    "url": "https://www.exotec.com/privacy-policy/"
+  },
+  "socialPreview": {
+    "url": "https://raw.githubusercontent.com/gitbook-demo-sites/exotec-demo-site-20260707/main/assets/exotec-demo-cover.svg"
+  },
+  "socialAccounts": [
+    {
+      "handle": "company/exotec",
+      "display": {
+        "footer": true,
+        "header": false
+      },
+      "platform": "linkedin"
+    }
+  ],
+  "externalLinks": {
+    "target": "self"
+  },
+  "insights": {
+    "trackingCookie": true
+  }
+}
