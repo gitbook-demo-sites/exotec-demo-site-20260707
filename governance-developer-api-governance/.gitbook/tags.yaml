@@ -1,0 +1,9 @@
+- tag: demo
+  label: Demo
+  icon: wand-magic-sparkles
+- tag: governance
+  label: Governance
+  icon: shield-halved
+- tag: discovery
+  label: Discovery
+  icon: microphone-lines
