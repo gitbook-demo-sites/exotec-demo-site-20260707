@@ -1,0 +1,45 @@
+{
+  "org": "M7Hsux2wvrs5Etd272Ma",
+  "site": "site_AXdbD",
+  "section": "sitesc_pDfbk",
+  "variants": {
+    "OPERATING_CONTROLS": {
+      "space": "T55Yk746W5CwlNMFI1Br",
+      "site_space": "sitesp_GX6RG",
+      "title": "Operating controls",
+      "folder": "governance-operating-controls"
+    },
+    "PARTNER_CUSTOMER_ACCESS": {
+      "space": "dP1j6hubu0TXV7A4t0Pd",
+      "site_space": "sitesp_HAu1P",
+      "title": "Partner and customer access",
+      "folder": "governance-partner-customer-access"
+    },
+    "DEVELOPER_API_GOVERNANCE": {
+      "space": "bX68u7Urnmzo8JuShFOw",
+      "site_space": "sitesp_UMcGC",
+      "title": "Developer API governance",
+      "folder": "governance-developer-api-governance"
+    }
+  },
+  "last_imports": {
+    "OPERATING_CONTROLS": {
+      "status": 204,
+      "space": "T55Yk746W5CwlNMFI1Br",
+      "site_space": "sitesp_GX6RG",
+      "folder": "governance-operating-controls"
+    },
+    "PARTNER_CUSTOMER_ACCESS": {
+      "status": 204,
+      "space": "dP1j6hubu0TXV7A4t0Pd",
+      "site_space": "sitesp_HAu1P",
+      "folder": "governance-partner-customer-access"
+    },
+    "DEVELOPER_API_GOVERNANCE": {
+      "status": 204,
+      "space": "bX68u7Urnmzo8JuShFOw",
+      "site_space": "sitesp_UMcGC",
+      "folder": "governance-developer-api-governance"
+    }
+  }
+}
